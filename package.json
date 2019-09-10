@@ -1,0 +1,13 @@
+{
+  "name": "electron-content-type-bug",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Henrik Wenz <HaNdTriX@gmail.com> (https://github.com/HaNdTriX)",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^7.0.0-beta.4"
+  }
+}
